@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\Acti02\ArticuloLibreria\obj\Debug\net8.0\ArticuloLibreria.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Acti02\ArticuloLibreria\obj\Debug\net8.0\ArticuloLibreria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Acti02\ArticuloLibreria\obj\Debug\net8.0\ArticuloLibreria.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Acti02\ArticuloLibreria\obj\Debug\net8.0\ArticuloLibreria.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Acti02\ArticuloLibreria\obj\Debug\net8.0\ArticuloLibreria.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Acti02\ArticuloLibreria\bin\Debug\net8.0\ArticuloLibreria.deps.json
+C:\Users\Usuario\Desktop\Acti02\ArticuloLibreria\bin\Debug\net8.0\ArticuloLibreria.dll
+C:\Users\Usuario\Desktop\Acti02\ArticuloLibreria\bin\Debug\net8.0\ArticuloLibreria.pdb
+C:\Users\Usuario\Desktop\Acti02\ArticuloLibreria\obj\Debug\net8.0\ArticuloLibreria.dll
+C:\Users\Usuario\Desktop\Acti02\ArticuloLibreria\obj\Debug\net8.0\refint\ArticuloLibreria.dll
+C:\Users\Usuario\Desktop\Acti02\ArticuloLibreria\obj\Debug\net8.0\ArticuloLibreria.pdb
+C:\Users\Usuario\Desktop\Acti02\ArticuloLibreria\obj\Debug\net8.0\ref\ArticuloLibreria.dll
+C:\Users\Usuario\Desktop\Acti02\ArticuloLibreria\obj\Debug\net8.0\ArticuloLibreria.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Acti02\ArticuloLibreria\obj\Debug\net8.0\ArticuloLibreria.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\Acti02\ArticuloLibreria\obj\Debug\net8.0\ArticuloLibreria.sourcelink.json

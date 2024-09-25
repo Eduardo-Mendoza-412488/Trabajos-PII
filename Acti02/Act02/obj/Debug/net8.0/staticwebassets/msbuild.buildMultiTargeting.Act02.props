@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Act02.props" />
+</Project>
