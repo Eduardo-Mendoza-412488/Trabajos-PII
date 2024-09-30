@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\Actividad 03\\Actividad_03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7286EC0E-D73B-4AFA-B4DC-5ACAF8DC9162}|Actividad_03.csproj|c:\\users\\usuario\\desktop\\actividad 03\\actividad_03\\controllers\\facturacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7286EC0E-D73B-4AFA-B4DC-5ACAF8DC9162}|Actividad_03.csproj|solutionrelative:controllers\\facturacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49AE2E84-E47C-4F19-A907-2ED396AB1888}|..\\Actividad01\\Actividad01.csproj|c:\\users\\usuario\\desktop\\actividad 03\\actividad01\\datos\\facturarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49AE2E84-E47C-4F19-A907-2ED396AB1888}|..\\Actividad01\\Actividad01.csproj|c:\\users\\usuario\\desktop\\actividad 03\\actividad01\\service\\servicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49AE2E84-E47C-4F19-A907-2ED396AB1888}|..\\Actividad01\\Actividad01.csproj|c:\\users\\usuario\\desktop\\actividad 03\\actividad01\\datos\\ifacturarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49AE2E84-E47C-4F19-A907-2ED396AB1888}|..\\Actividad01\\Actividad01.csproj|c:\\users\\usuario\\desktop\\actividad 03\\actividad01\\dominio\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49AE2E84-E47C-4F19-A907-2ED396AB1888}|..\\Actividad01\\Actividad01.csproj|c:\\users\\usuario\\desktop\\actividad 03\\actividad01\\dominio\\detallefactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49AE2E84-E47C-4F19-A907-2ED396AB1888}|..\\Actividad01\\Actividad01.csproj|c:\\users\\usuario\\desktop\\actividad 03\\actividad01\\dominio\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49AE2E84-E47C-4F19-A907-2ED396AB1888}|..\\Actividad01\\Actividad01.csproj|c:\\users\\usuario\\desktop\\actividad 03\\actividad01\\dominio\\formapago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49AE2E84-E47C-4F19-A907-2ED396AB1888}|..\\Actividad01\\Actividad01.csproj|c:\\users\\usuario\\desktop\\actividad 03\\actividad01\\datos\\utils\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49AE2E84-E47C-4F19-A907-2ED396AB1888}|..\\Actividad01\\Actividad01.csproj|c:\\users\\usuario\\desktop\\actividad 03\\actividad01\\actividad01.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Articulo.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Actividad 03\\Actividad01\\Dominio\\Articulo.cs",
+              "RelativeDocumentMoniker": "..\\Actividad01\\Dominio\\Articulo.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Actividad 03\\Actividad01\\Dominio\\Articulo.cs",
+              "RelativeToolTip": "..\\Actividad01\\Dominio\\Articulo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T22:24:28.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FacturaController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Actividad 03\\Actividad_03\\Controllers\\FacturaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FacturaController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Actividad 03\\Actividad_03\\Controllers\\FacturaController.cs",
+              "RelativeToolTip": "Controllers\\FacturaController.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAAADYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T22:10:12.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IFacturaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Actividad 03\\Actividad01\\Datos\\IFacturaRepository.cs",
+              "RelativeDocumentMoniker": "..\\Actividad01\\Datos\\IFacturaRepository.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Actividad 03\\Actividad01\\Datos\\IFacturaRepository.cs",
+              "RelativeToolTip": "..\\Actividad01\\Datos\\IFacturaRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T21:03:30.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FacturaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Actividad 03\\Actividad01\\Datos\\FacturaRepository.cs",
+              "RelativeDocumentMoniker": "..\\Actividad01\\Datos\\FacturaRepository.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Actividad 03\\Actividad01\\Datos\\FacturaRepository.cs",
+              "RelativeToolTip": "..\\Actividad01\\Datos\\FacturaRepository.cs",
+              "ViewState": "AQIAAGgAAAAAAAAAAAAAAG0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T21:03:24.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DetalleFactura.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Actividad 03\\Actividad01\\Dominio\\DetalleFactura.cs",
+              "RelativeDocumentMoniker": "..\\Actividad01\\Dominio\\DetalleFactura.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Actividad 03\\Actividad01\\Dominio\\DetalleFactura.cs",
+              "RelativeToolTip": "..\\Actividad01\\Dominio\\DetalleFactura.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T01:33:36.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Servicio.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Actividad 03\\Actividad01\\Service\\Servicio.cs",
+              "RelativeDocumentMoniker": "..\\Actividad01\\Service\\Servicio.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Actividad 03\\Actividad01\\Service\\Servicio.cs",
+              "RelativeToolTip": "..\\Actividad01\\Service\\Servicio.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAWwB0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T01:58:03.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormaPago.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Actividad 03\\Actividad01\\Dominio\\FormaPago.cs",
+              "RelativeDocumentMoniker": "..\\Actividad01\\Dominio\\FormaPago.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Actividad 03\\Actividad01\\Dominio\\FormaPago.cs",
+              "RelativeToolTip": "..\\Actividad01\\Dominio\\FormaPago.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T02:11:26.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DataHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Actividad 03\\Actividad01\\Datos\\Utils\\DataHelper.cs",
+              "RelativeDocumentMoniker": "..\\Actividad01\\Datos\\Utils\\DataHelper.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Actividad 03\\Actividad01\\Datos\\Utils\\DataHelper.cs",
+              "RelativeToolTip": "..\\Actividad01\\Datos\\Utils\\DataHelper.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAjwCIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T21:03:08.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Factura.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Actividad 03\\Actividad01\\Dominio\\Factura.cs",
+              "RelativeDocumentMoniker": "..\\Actividad01\\Dominio\\Factura.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Actividad 03\\Actividad01\\Dominio\\Factura.cs",
+              "RelativeToolTip": "..\\Actividad01\\Dominio\\Factura.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T01:34:23.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Actividad01",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Actividad 03\\Actividad01\\Actividad01.csproj",
+              "RelativeDocumentMoniker": "..\\Actividad01\\Actividad01.csproj",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Actividad 03\\Actividad01\\Actividad01.csproj",
+              "RelativeToolTip": "..\\Actividad01\\Actividad01.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-28T22:40:20.855Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

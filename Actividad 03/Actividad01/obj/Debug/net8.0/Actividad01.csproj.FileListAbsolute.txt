@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\Actividad 03\Actividad01\bin\Debug\net8.0\Actividad01.deps.json
+C:\Users\Usuario\Desktop\Actividad 03\Actividad01\bin\Debug\net8.0\Actividad01.dll
+C:\Users\Usuario\Desktop\Actividad 03\Actividad01\bin\Debug\net8.0\Actividad01.pdb
+C:\Users\Usuario\Desktop\Actividad 03\Actividad01\obj\Debug\net8.0\Actividad01.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Actividad 03\Actividad01\obj\Debug\net8.0\Actividad01.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Actividad 03\Actividad01\obj\Debug\net8.0\Actividad01.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\Actividad 03\Actividad01\obj\Debug\net8.0\Actividad01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Actividad 03\Actividad01\obj\Debug\net8.0\Actividad01.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Actividad 03\Actividad01\obj\Debug\net8.0\Actividad01.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Actividad 03\Actividad01\obj\Debug\net8.0\Actividad01.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Actividad 03\Actividad01\obj\Debug\net8.0\Actividad01.sourcelink.json
+C:\Users\Usuario\Desktop\Actividad 03\Actividad01\obj\Debug\net8.0\Actividad01.dll
+C:\Users\Usuario\Desktop\Actividad 03\Actividad01\obj\Debug\net8.0\refint\Actividad01.dll
+C:\Users\Usuario\Desktop\Actividad 03\Actividad01\obj\Debug\net8.0\Actividad01.pdb
+C:\Users\Usuario\Desktop\Actividad 03\Actividad01\obj\Debug\net8.0\ref\Actividad01.dll
