@@ -1,0 +1,247 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\Actividad 04\\Actividad04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC2F5BE9-7CC1-433E-AB57-ABE9BF2FA1CA}|Actividad04.csproj|c:\\users\\usuario\\desktop\\actividad 04\\actividad04\\controllers\\serviciocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC2F5BE9-7CC1-433E-AB57-ABE9BF2FA1CA}|Actividad04.csproj|solutionrelative:controllers\\serviciocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE264F11-99FD-42D1-9CC4-890758576B73}|..\\Librer\u00EDaTurnos\\Librer\u00EDaTurnos.csproj|c:\\users\\usuario\\desktop\\actividad 04\\librer\u00EDaturnos\\repositorys\\serviciorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE264F11-99FD-42D1-9CC4-890758576B73}|..\\Librer\u00EDaTurnos\\Librer\u00EDaTurnos.csproj|c:\\users\\usuario\\desktop\\actividad 04\\librer\u00EDaturnos\\repositorys\\iserviciorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BCF727A-9995-443B-BD08-CE9DAFB38C67}|..\\ModeloTurnos\\ModeloTurnos.csproj|c:\\users\\usuario\\desktop\\actividad 04\\modeloturnos\\models\\turno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BCF727A-9995-443B-BD08-CE9DAFB38C67}|..\\ModeloTurnos\\ModeloTurnos.csproj|c:\\users\\usuario\\desktop\\actividad 04\\modeloturnos\\models\\servicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BCF727A-9995-443B-BD08-CE9DAFB38C67}|..\\ModeloTurnos\\ModeloTurnos.csproj|c:\\users\\usuario\\desktop\\actividad 04\\modeloturnos\\models\\detalleturno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC2F5BE9-7CC1-433E-AB57-ABE9BF2FA1CA}|Actividad04.csproj|c:\\users\\usuario\\desktop\\actividad 04\\actividad04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC2F5BE9-7CC1-433E-AB57-ABE9BF2FA1CA}|Actividad04.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC2F5BE9-7CC1-433E-AB57-ABE9BF2FA1CA}|Actividad04.csproj|c:\\users\\usuario\\desktop\\actividad 04\\actividad04\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EC2F5BE9-7CC1-433E-AB57-ABE9BF2FA1CA}|Actividad04.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC2F5BE9-7CC1-433E-AB57-ABE9BF2FA1CA}|Actividad04.csproj|c:\\users\\usuario\\desktop\\actividad 04\\actividad04\\migrations\\20241002063901_turnospeluqueria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC2F5BE9-7CC1-433E-AB57-ABE9BF2FA1CA}|Actividad04.csproj|solutionrelative:migrations\\20241002063901_turnospeluqueria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC2F5BE9-7CC1-433E-AB57-ABE9BF2FA1CA}|Actividad04.csproj|c:\\users\\usuario\\desktop\\actividad 04\\actividad04\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC2F5BE9-7CC1-433E-AB57-ABE9BF2FA1CA}|Actividad04.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BCF727A-9995-443B-BD08-CE9DAFB38C67}|..\\ModeloTurnos\\ModeloTurnos.csproj|c:\\users\\usuario\\desktop\\actividad 04\\modeloturnos\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC2F5BE9-7CC1-433E-AB57-ABE9BF2FA1CA}|Actividad04.csproj|c:\\users\\usuario\\desktop\\actividad 04\\actividad04\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC2F5BE9-7CC1-433E-AB57-ABE9BF2FA1CA}|Actividad04.csproj|solutionrelative:migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BCF727A-9995-443B-BD08-CE9DAFB38C67}|..\\ModeloTurnos\\ModeloTurnos.csproj|c:\\users\\usuario\\desktop\\actividad 04\\modeloturnos\\modeloturnos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC2F5BE9-7CC1-433E-AB57-ABE9BF2FA1CA}|Actividad04.csproj|c:\\users\\usuario\\desktop\\actividad 04\\actividad04\\actividad04.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EC2F5BE9-7CC1-433E-AB57-ABE9BF2FA1CA}|Actividad04.csproj|solutionrelative:actividad04.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DetalleTurno.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Actividad 04\\ModeloTurnos\\Models\\DetalleTurno.cs",
+              "RelativeDocumentMoniker": "..\\ModeloTurnos\\Models\\DetalleTurno.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Actividad 04\\ModeloTurnos\\Models\\DetalleTurno.cs",
+              "RelativeToolTip": "..\\ModeloTurnos\\Models\\DetalleTurno.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T06:42:04.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Actividad 04\\Actividad04\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Actividad 04\\Actividad04\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAACcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-01T00:34:21.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IServicioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Actividad 04\\Librer\u00EDaTurnos\\Repositorys\\IServicioRepository.cs",
+              "RelativeDocumentMoniker": "..\\Librer\u00EDaTurnos\\Repositorys\\IServicioRepository.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Actividad 04\\Librer\u00EDaTurnos\\Repositorys\\IServicioRepository.cs",
+              "RelativeToolTip": "..\\Librer\u00EDaTurnos\\Repositorys\\IServicioRepository.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAQwAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T00:48:10.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ServicioController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Actividad 04\\Actividad04\\Controllers\\ServicioController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ServicioController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Actividad 04\\Actividad04\\Controllers\\ServicioController.cs",
+              "RelativeToolTip": "Controllers\\ServicioController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAACMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T01:05:19.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Turno.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Actividad 04\\ModeloTurnos\\Models\\Turno.cs",
+              "RelativeDocumentMoniker": "..\\ModeloTurnos\\Models\\Turno.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Actividad 04\\ModeloTurnos\\Models\\Turno.cs",
+              "RelativeToolTip": "..\\ModeloTurnos\\Models\\Turno.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T06:42:06.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServicioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Actividad 04\\Librer\u00EDaTurnos\\Repositorys\\ServicioRepository.cs",
+              "RelativeDocumentMoniker": "..\\Librer\u00EDaTurnos\\Repositorys\\ServicioRepository.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Actividad 04\\Librer\u00EDaTurnos\\Repositorys\\ServicioRepository.cs",
+              "RelativeToolTip": "..\\Librer\u00EDaTurnos\\Repositorys\\ServicioRepository.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T00:53:28.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Actividad 04\\Actividad04\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Actividad 04\\Actividad04\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T21:29:14.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Servicio.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Actividad 04\\ModeloTurnos\\Models\\Servicio.cs",
+              "RelativeDocumentMoniker": "..\\ModeloTurnos\\Models\\Servicio.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Actividad 04\\ModeloTurnos\\Models\\Servicio.cs",
+              "RelativeToolTip": "..\\ModeloTurnos\\Models\\Servicio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T06:43:32.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20241002063901_TurnosPeluqueria.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Actividad 04\\Actividad04\\Migrations\\20241002063901_TurnosPeluqueria.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241002063901_TurnosPeluqueria.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Actividad 04\\Actividad04\\Migrations\\20241002063901_TurnosPeluqueria.cs",
+              "RelativeToolTip": "Migrations\\20241002063901_TurnosPeluqueria.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T07:17:44.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Actividad 04\\Actividad04\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Actividad 04\\Actividad04\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T06:48:15.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Actividad 04\\ModeloTurnos\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "..\\ModeloTurnos\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Actividad 04\\ModeloTurnos\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "..\\ModeloTurnos\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAuwFMAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T06:41:59.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Actividad 04\\Actividad04\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Actividad 04\\Actividad04\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAADwvzwAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T07:17:53.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ModeloTurnos.csproj",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Actividad 04\\ModeloTurnos\\ModeloTurnos.csproj",
+              "RelativeDocumentMoniker": "..\\ModeloTurnos\\ModeloTurnos.csproj",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Actividad 04\\ModeloTurnos\\ModeloTurnos.csproj",
+              "RelativeToolTip": "..\\ModeloTurnos\\ModeloTurnos.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-02T06:41:53.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Actividad04.csproj",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Actividad 04\\Actividad04\\Actividad04.csproj",
+              "RelativeDocumentMoniker": "Actividad04.csproj",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Actividad 04\\Actividad04\\Actividad04.csproj",
+              "RelativeToolTip": "Actividad04.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-02T06:18:49.358Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

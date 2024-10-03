@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\Actividad 04\ModeloTurnos\obj\Debug\net8.0\ModeloTurnos.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Actividad 04\ModeloTurnos\obj\Debug\net8.0\ModeloTurnos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Actividad 04\ModeloTurnos\obj\Debug\net8.0\ModeloTurnos.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Actividad 04\ModeloTurnos\obj\Debug\net8.0\ModeloTurnos.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Actividad 04\ModeloTurnos\obj\Debug\net8.0\ModeloTurnos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Actividad 04\ModeloTurnos\obj\Debug\net8.0\ModeloTurnos.sourcelink.json
+C:\Users\Usuario\Desktop\Actividad 04\ModeloTurnos\bin\Debug\net8.0\ModeloTurnos.deps.json
+C:\Users\Usuario\Desktop\Actividad 04\ModeloTurnos\bin\Debug\net8.0\ModeloTurnos.runtimeconfig.json
+C:\Users\Usuario\Desktop\Actividad 04\ModeloTurnos\bin\Debug\net8.0\ModeloTurnos.dll
+C:\Users\Usuario\Desktop\Actividad 04\ModeloTurnos\bin\Debug\net8.0\ModeloTurnos.pdb
+C:\Users\Usuario\Desktop\Actividad 04\ModeloTurnos\obj\Debug\net8.0\ModeloTurnos.dll
+C:\Users\Usuario\Desktop\Actividad 04\ModeloTurnos\obj\Debug\net8.0\refint\ModeloTurnos.dll
+C:\Users\Usuario\Desktop\Actividad 04\ModeloTurnos\obj\Debug\net8.0\ModeloTurnos.pdb
+C:\Users\Usuario\Desktop\Actividad 04\ModeloTurnos\obj\Debug\net8.0\ModeloTurnos.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Actividad 04\ModeloTurnos\obj\Debug\net8.0\ref\ModeloTurnos.dll
