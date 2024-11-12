@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./estilos/styles.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <title>Menú Lateral</title>
+</head>
+<body>
+    <div class="sidebar">
+        <img class="user" src="./img/Usuario.png" alt="Usuario">
+        <h3 class="user-title">Usuario</a></h3>
+
+        <button class="turno" onclick="showSection('Inicio')">Inicio</button>
+        <button class="turno" onclick="showSection('Mostrar')">Mostrar</button>
+        <button class="turno" onclick="showSection('nuevoTurno')">Nuevo Turno</button>
+        <button class="turno" onclick="showSection('Consulta 9')">Consulta 9</button>
+    
+    </div>
+    <div class="content">
+        <section id="Inicio" class="section active">
+            <h1>Turnos</h1>
+            
+            <ul id="clienteList">
+                <li>Cliente 1: <span class="turnosCli" data-cliente="cliente1">0</span></li>
+                <li>Cliente 2: <span class="turnosCli" data-cliente="cliente2">0</span></li>
+                <li>Cliente 3: <span class="turnosCli" data-cliente="cliente3">0</span></li>
+            </ul>
+        </section>
+        <section id="Mostrar" class="section ">
+            <h1>Lista de Turnos</h1>
+            <button type="button" class="btn btn-primary" onclick="consultar_Turnos();">Consultar </button>
+            <table class="table" id="tablaTurnos">
+                <thead>
+                    <tr>
+                        <th scope="col">Cliente</th>
+                        <th scope="col">Hora</th>
+                        <th scope="col">Fecha</th>
+                    </tr>
+                </thead>
+                <tbody id="MostartTurnos">
+                </tbody>
+            </table>
+        </section>
+
+        <section id="Consulta 9" class="section">
+            <h2>Consulta 9</h2>
+            <button type="button" class="btn btn-primary" onclick="consultar_peliculas();">Consultar </button>
+            <table class="table" >
+                <thead>
+                    <tr>
+                        <th scope="col">#</th>
+                        <th scope="col">Pelicula</th>
+                        <th scope="col">Recaudado</th>
+                        <th scope="col">Ventas</th>
+                    </tr>
+                </thead>
+                <tbody id="peli_monto"></tbody>
+                </tbody>
+
+            </table>
+            
+        </section>
+
+        <section id="nuevoTurno" class="section">
+            <h2>Registrar Nuevo Turno</h2>
+            <form id="turnoForm" onsubmit="registrarTurno(event)">
+                <div class="mb-3">
+                    <h6>Seleccion Cliente</h6>
+                    <label class="form-label" for="cliente">Cliente:</label>
+                    <input class="form-control" id="cliente" type="text">
+                </div>
+                <div class="mb-3">
+                    <label class="form-label" for="fecha">Fecha:</label>
+                    <input class="form-control" id="fecha" type="text">
+                </div>
+                <div class="mb-3">
+                    <label class="form-label" for="hora">Hora:</label>
+                    <input class="form-control" id="hora" type="text">
+                    
+                </div>
+                <div class="mb-3">
+                    <button class="btn btn-primary" type="submit">Enviar</button>
+                    <button class="btn btn-secondary" type="reset">Limpiar</button>
+                </div>
+            </form>            
+        </section>
+    </div>
+    
+
+    <footer>
+        <p class="texto-footer">@2024 -Todos los derechos reservados</p>
+    </footer>
+
+
+    <script src="./java/index.js"></script>
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
+    
+</body>
+</html>

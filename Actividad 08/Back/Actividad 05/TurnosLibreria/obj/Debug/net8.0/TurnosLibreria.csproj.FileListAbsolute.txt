@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\Actividad 05\TurnosLibreria\bin\Debug\net8.0\TurnosLibreria.deps.json
+C:\Users\Usuario\Desktop\Actividad 05\TurnosLibreria\bin\Debug\net8.0\TurnosLibreria.runtimeconfig.json
+C:\Users\Usuario\Desktop\Actividad 05\TurnosLibreria\bin\Debug\net8.0\TurnosLibreria.dll
+C:\Users\Usuario\Desktop\Actividad 05\TurnosLibreria\bin\Debug\net8.0\TurnosLibreria.pdb
+C:\Users\Usuario\Desktop\Actividad 05\TurnosLibreria\obj\Debug\net8.0\TurnosLibreria.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Actividad 05\TurnosLibreria\obj\Debug\net8.0\TurnosLibreria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Actividad 05\TurnosLibreria\obj\Debug\net8.0\TurnosLibreria.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Actividad 05\TurnosLibreria\obj\Debug\net8.0\TurnosLibreria.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Actividad 05\TurnosLibreria\obj\Debug\net8.0\TurnosLibreria.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Actividad 05\TurnosLibreria\obj\Debug\net8.0\TurnosLibreria.sourcelink.json
+C:\Users\Usuario\Desktop\Actividad 05\TurnosLibreria\obj\Debug\net8.0\TurnosLibreria.dll
+C:\Users\Usuario\Desktop\Actividad 05\TurnosLibreria\obj\Debug\net8.0\refint\TurnosLibreria.dll
+C:\Users\Usuario\Desktop\Actividad 05\TurnosLibreria\obj\Debug\net8.0\TurnosLibreria.pdb
+C:\Users\Usuario\Desktop\Actividad 05\TurnosLibreria\obj\Debug\net8.0\TurnosLibreria.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Actividad 05\TurnosLibreria\obj\Debug\net8.0\ref\TurnosLibreria.dll
